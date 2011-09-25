@@ -1,2 +1,3 @@
+追記文字列1
 Test File
 コミットテストfrom mac
